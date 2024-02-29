@@ -22,7 +22,7 @@ body{
 }
 
 .main .tenis{
-    width: 500px;
+    width: 450px;
 }
 .content{
   text-align: center;
@@ -31,4 +31,12 @@ body{
 
 button{
     margin-top: 15px;
+}
+
+input[type = 'number']{
+    text-align: center;
+    color: blue;
+    font-size: 15px;
+    width: 140px;
+    height: 30px;
 }
