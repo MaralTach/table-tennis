@@ -51,8 +51,8 @@ player2Btn.addEventListener('click', (e) =>{
            p1.style.color = "red";
            player1Btn.disabled = true;   
            player2Btn.disabled = true; 
-           return alert('Player 2 Win')
            
+            
        }
     }
 })
